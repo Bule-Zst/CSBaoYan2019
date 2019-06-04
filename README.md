@@ -1,12 +1,18 @@
 # 2019年计算机保研夏令营
 可以参考[去年](https://github.com/dhx000/CSBaoYan2018)，排名不分先后
 
+若以下链接无法访问（比如出现学校官网瘫痪问题），可通过如下链接查看：
+
+- [2019年大学生保研夏令营汇总贴-工科版](https://www.baoyantong.cn/bbs/forum.php?mod=viewthread&tid=194&extra=page=1)
+- [2019年推免招生简章汇总更新中](http://www.eeban.com/forum.php?mod=viewthread&tid=109145&extra=page%3D1&_dsign=9e9dff01)
+- [最新最全夏令营汇总](https://mp.weixin.qq.com/s?__biz=MzU2ODMxMzIzMw==&mid=100015949&idx=1&sn=b9c342dac25c93086f942f1a6e020f8b&chksm=7c8d6bb34bfae2a5d8607dfb8092ee06236f943b0a6edee725f0df56a2704cf8437f78b0cb93&xtrack=1&scene=0&subscene=90&sessionid=1559630624&clicktime=1559630634&ascene=7&devicetype=android-28&version=2700043b&nettype=cmnet&abtest_cookie=BQABAAoACwASABMAFQAHACOXHgBWmR4AvZkeANyZHgD4mR4AA5oeAAmaHgAAAA%3D%3D&lang=en&pass_ticket=ICgaf%2FP6ayJHrYuP1juT1U3YPM1sw7M4ji6tMgC%2FQEq%2FvbdiKG2DyQ307t0UFmdf&wx_header=1)
+
 ## 清华大学
 ~~【报名截止】[清华大学交叉信息研究院优秀大学生夏令营](http://admission.iiis.tsinghua.edu.cn/2019/)~~
 
 ~~【报名截止】[清华大学软件学院2019年优秀大学生夏令营报名通知](http://www.thss.tsinghua.edu.cn/publish/soft/3649/2019/20190410165013261684356/20190410165013261684356_.html)~~
 
-【6.15截止】[清华大学车辆与运载学院2019年全国优秀大学生暑期夏令营通知](http://www.dae.tsinghua.edu.cn/publish/dae/4389/2019/20190505083202514688910/20190505083202514688910_.html?tdsourcetag=s_pctim_aiomsg)
+~~【6.15截止】[清华大学车辆与运载学院2019年全国优秀大学生暑期夏令营通知](http://www.dae.tsinghua.edu.cn/publish/dae/4389/2019/20190505083202514688910/20190505083202514688910_.html?tdsourcetag=s_pctim_aiomsg)~~
 
 【6.13截止】[清华-伯克利深圳学院2019年暑期夏令营招募通知](http://www.tbsi.edu.cn/index.php?s=/cms/1183.html)
 
@@ -38,6 +44,8 @@
 
 【6.10截止】[南京大学计算机科学与技术系暨人工智能学院2019年本科生开放日报名通知](https://cs.nju.edu.cn/16/2a/c1654a333354/page.htm)
 
+【6.15截止】[南京大学软件学院2019 年优秀大学生夏令营通知](http://software.nju.edu.cn/index.php/important-notice/521-2019)
+
 ## 中国科学技术大学
 【6.15截止】[第六届（2019年）信息科技夏令营报名通知](https://xly.ustc.edu.cn/news.php?newsid=677)
 
@@ -61,7 +69,7 @@
 ## 华东师范大学
 ~~【6.2截止】[第七届云计算与大数据优秀大学生夏令营](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2019040120199382172023)~~
 
-【6.15截止】[计算机科学技术系2019年优秀大学生夏令营通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2019040120040157201411)
+~~【6.15截止】[计算机科学技术系2019年优秀大学生夏令营通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2019040120040157201411)~~
 
 【6.10截止】[第五届高可信软件工程优秀大学生夏令营](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2019032220159046143733)
 
