@@ -117,9 +117,9 @@
 
 ~~【6.2截止】[南开大学人工智能学院2019年全国优秀大学生夏令营](http://ai.nankai.edu.cn/articleDetail/init.action?seqId=6815e46dc5e74427960d5b900d4e57a4&channelId=c_0107&returnFlag=returnList)~~
 
-【外出推免】[2019年南开大学计算机学院接收推免生招生信息](http://cc.nankai.edu.cn/news/news-detail/17630)
+~~【外出推免】[2019年南开大学计算机学院接收推免生招生信息](http://cc.nankai.edu.cn/news/news-detail/17630)~~
 
-南京（5月25日）、武汉(5月26日)、大连（6月1日）、西安（6月2、3日）、青岛（6月15日）
+~~南京（5月25日）、武汉(5月26日)、大连（6月1日）、西安（6月2、3日）、青岛（6月15日）~~
 
 ## 北京理工大学
 ~~【6.2截止】[2019年北京理工大学计算机学院暑期学术夏令营通知](http://cs.bit.edu.cn/tzgg/148643.htm?from=timeline&isappinstalled=0&tdsourcetag=s_pctim_aiomsg)~~
