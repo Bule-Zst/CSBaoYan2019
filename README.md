@@ -16,7 +16,7 @@
 
 【6.13截止】[清华-伯克利深圳学院2019年暑期夏令营招募通知](http://www.tbsi.edu.cn/index.php?s=/cms/1183.html)
 
-【6.9截止】[清华大学**计算机科学与技术系**2019年全国优秀大学生夏令营通知](http://www.cs.tsinghua.edu.cn/publish/cs/4723/20190524142730289112446/1558679445723.pdf)
+~~【6.9截止】[清华大学**计算机科学与技术系**2019年全国优秀大学生夏令营通知](http://www.cs.tsinghua.edu.cn/publish/cs/4723/20190524142730289112446/1558679445723.pdf)~~
 
 ## 北京大学
 
@@ -109,10 +109,23 @@
 ## 中山大学
 【6.10截止】[中山大学2019年“人工智能与科学计算”优秀大学生夏令营活动报名](http://sdcs.sysu.edu.cn/content/4821)
 
-## 哈工大深圳
-【6.17截止】[哈尔滨工业大学（深圳）2020年暑期夏令营](http://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=bd960a16081f4dbfa0459f641c3c1047&xxlm=04)
+## 哈工大
+【6.17截止】[哈尔滨工业大学（**深圳**）2020年暑期夏令营](http://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=bd960a16081f4dbfa0459f641c3c1047&xxlm=04)
+
+【6.24截止】[哈工大计算机学院 仅邮件 ](http://www.eeban.com/thread-169732-1-1.html)
+
+## 西交
+
+【6.16截止】[西交软件工程学院](http://www.eeban.com/thread-168801-1-1.html?_dsign=8c36d9b3)
+
+## 山东大学
+
+【6.20截止】[山东大学计算机学院](http://www.eeban.com/thread-168940-1-1.html?_dsign=463b4402)
+
+【6.25截止】[山东大学软件学院](http://www.eeban.com/thread-168943-1-1.html?_dsign=ce2f8a85)
 
 ## 南开大学
+
 ~~【报名截止】[2019年南开大学“活力软件”优秀大学生夏令营](http://cs.nankai.edu.cn/index.php/zh/2016-12-05-17-40-18/1781-2019-24)~~
 
 ~~【6.2截止】[南开大学人工智能学院2019年全国优秀大学生夏令营](http://ai.nankai.edu.cn/articleDetail/init.action?seqId=6815e46dc5e74427960d5b900d4e57a4&channelId=c_0107&returnFlag=returnList)~~
@@ -132,3 +145,20 @@
 
 ## 电子科技大学（成都）
 【6.24截止】[电子科技大学2019年“计算机（网安）”全国优秀大学生暑期夏令营通知](http://www.ccse.uestc.edu.cn/view?type=55&id=19540)
+
+【6.10截止】[电子科技大学基础院（有计算机科学与技术专业，仅邮件，和其他学院不冲突）](http://www.eeban.com/thread-167465-1-1.html?_dsign=49a68a7a)
+
+【6.24截止】[电子科技大学计算机网安学院](http://www.eeban.com/thread-169615-1-1.html)
+
+【6.9截止】[电子科技大学信息与软件工程院](http://www.eeban.com/thread-169616-1-1.html)
+
+## 中南大学
+
+【6.15截止】[中南大学计算机学院](http://www.eeban.com/thread-170213-1-1.html)
+
+## 川大
+
+【6.14截止】[川大计算机学院](http://www.eeban.com/thread-169296-1-1.html?_dsign=5d26ad0d)
+
+【6.14截止】[吉大计算机科学与技术学院](http://www.eeban.com/thread-170231-1-1.html)
+
