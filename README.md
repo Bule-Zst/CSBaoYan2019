@@ -114,8 +114,6 @@
 
 【6.17截止】[哈尔滨工业大学（深圳）2020年暑期夏令营](http://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=bd960a16081f4dbfa0459f641c3c1047&xxlm=04)
 
-【6.24截止】[哈工大计算机学院 仅邮件 ](http://www.eeban.com/thread-169732-1-1.html)
-
 ## 西交
 
 【6.16截止】[西交软件工程学院](http://www.eeban.com/thread-168801-1-1.html?_dsign=8c36d9b3)
@@ -168,5 +166,7 @@
 ## 川大
 
 【6.14截止】[川大计算机学院](http://www.eeban.com/thread-169296-1-1.html?_dsign=5d26ad0d)
+
+## 吉大
 
 【6.14截止】[吉大计算机科学与技术学院](http://www.eeban.com/thread-170231-1-1.html)
