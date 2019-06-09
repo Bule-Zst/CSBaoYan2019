@@ -152,7 +152,7 @@
 
 【6.24截止】[电子科技大学计算机网安学院](http://www.eeban.com/thread-169615-1-1.html)
 
-【6.9截止】[电子科技大学信息与软件工程院](http://www.eeban.com/thread-169616-1-1.html)
+~~【6.9截止】[电子科技大学信息与软件工程院](http://www.eeban.com/thread-169616-1-1.html)~~
 
 ## 中南大学
 【6.15截止】[中南大学计算机学院2019年全国优秀大学生暑期夏令营通知](http://cse.csu.edu.cn/info/1003/6598.htm)
