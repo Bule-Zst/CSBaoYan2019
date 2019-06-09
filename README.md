@@ -44,7 +44,7 @@
 
 【6.10截止】[南京大学计算机科学与技术系暨人工智能学院2019年本科生开放日报名通知](https://cs.nju.edu.cn/16/2a/c1654a333354/page.htm)
 
-【6.15截止】[南京大学软件学院2019 年优秀大学生夏令营通知](http://software.nju.edu.cn/index.php/important-notice/521-2019)
+【6.15截止】[2019年南京大学软件学院全国优秀大学生夏令营报名通知](http://software.nju.edu.cn/index.php/important-notice/521-2019)
 
 ## 中国科学技术大学
 【6.15截止】[第六届（2019年）信息科技夏令营报名通知](https://xly.ustc.edu.cn/news.php?newsid=677)
@@ -109,8 +109,10 @@
 ## 中山大学
 【6.10截止】[中山大学2019年“人工智能与科学计算”优秀大学生夏令营活动报名](http://sdcs.sysu.edu.cn/content/4821)
 
-## 哈工大
-【6.17截止】[哈尔滨工业大学（**深圳**）2020年暑期夏令营](http://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=bd960a16081f4dbfa0459f641c3c1047&xxlm=04)
+## 哈尔滨工业大学
+【6.24截止】[2020年优秀硕士生源选拔（含直博生）暑期夏令营招募通知](http://yzb.hit.edu.cn/2019/0524/c8822a224945/page.htm)
+
+【6.17截止】[哈尔滨工业大学（深圳）2020年暑期夏令营](http://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=bd960a16081f4dbfa0459f641c3c1047&xxlm=04)
 
 【6.24截止】[哈工大计算机学院 仅邮件 ](http://www.eeban.com/thread-169732-1-1.html)
 
@@ -138,6 +140,8 @@
 ~~【6.2截止】[2019年北京理工大学计算机学院暑期学术夏令营通知](http://cs.bit.edu.cn/tzgg/148643.htm?from=timeline&isappinstalled=0&tdsourcetag=s_pctim_aiomsg)~~
 
 ## 武汉大学
+【6.16截止】[武汉大学计算机学院2019年优秀大学生暑期夏令营](http://cs.whu.edu.cn/news_show.aspx?id=1085)
+
 【6.20截止】[2019年优秀大学生暑期夏令营活动实施方案（国家网络安全学院）](http://cse.whu.edu.cn/index.php?s=/home/xwzx/detail/id/335.html)
 
 ## 国防科学技术大学
@@ -153,12 +157,16 @@
 【6.9截止】[电子科技大学信息与软件工程院](http://www.eeban.com/thread-169616-1-1.html)
 
 ## 中南大学
+【6.15截止】[中南大学计算机学院2019年全国优秀大学生暑期夏令营通知](http://cse.csu.edu.cn/info/1003/6598.htm)
 
-【6.15截止】[中南大学计算机学院](http://www.eeban.com/thread-170213-1-1.html)
+## 华中科技大学
+【6.20截止】[关于举办“2019年华中科技大学计算机学院优秀大学生夏令营”活动的通知](http://www.cs.hust.edu.cn/info/1102/2331.htm)
+
+## 兰州大学
+[兰州大学信息科学与工程学院2019年优秀大学生暑期夏令营活动通知](http://xxxy.lzu.edu.cn/lzupage/2019/05/23/N20190523152117.html)
 
 ## 川大
 
 【6.14截止】[川大计算机学院](http://www.eeban.com/thread-169296-1-1.html?_dsign=5d26ad0d)
 
 【6.14截止】[吉大计算机科学与技术学院](http://www.eeban.com/thread-170231-1-1.html)
-
