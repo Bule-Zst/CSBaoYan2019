@@ -14,7 +14,7 @@
 
 ~~【6.15截止】[清华大学车辆与运载学院2019年全国优秀大学生暑期夏令营通知](http://www.dae.tsinghua.edu.cn/publish/dae/4389/2019/20190505083202514688910/20190505083202514688910_.html?tdsourcetag=s_pctim_aiomsg)~~
 
-【6.13截止】[清华-伯克利深圳学院2019年暑期夏令营招募通知](http://www.tbsi.edu.cn/index.php?s=/cms/1183.html)
+~~【6.13截止】[清华-伯克利深圳学院2019年暑期夏令营招募通知](http://www.tbsi.edu.cn/index.php?s=/cms/1183.html)~~
 
 ~~【6.9截止】[清华大学**计算机科学与技术系**2019年全国优秀大学生夏令营通知](http://www.cs.tsinghua.edu.cn/publish/cs/4723/20190524142730289112446/1558679445723.pdf)~~
 
@@ -22,7 +22,7 @@
 
 ~~【报名截止】[北京大学信息科学技术学院关于举办2019年信息学科优秀大学生夏令营的通知](http://eecs.pku.edu.cn/info/1060/8951.htm)~~
 
-【6.12网申截止6.14邮寄截止】[北京大学前沿交叉学科研究院关于举办2019年交叉学科优秀大学生夏令营的通知](http://www.aais.pku.edu.cn/tongzhi/shownews.php?id=821)
+~~【6.12网申截止6.14邮寄截止】[北京大学前沿交叉学科研究院关于举办2019年交叉学科优秀大学生夏令营的通知](http://www.aais.pku.edu.cn/tongzhi/shownews.php?id=821)~~
 
 【6.22截止】[北京大学信息工程学院关于举办 “2019年全国优秀大学生夏令营”的通知](http://www.ece.pku.edu.cn/2019/anotice_0529/2236.html)
 
