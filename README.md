@@ -34,6 +34,8 @@
 ## 同济大学
 [同济大学2019年优秀学生暑期学校活动通知（陆续更新中）](http://yz.tongji.edu.cn/info/1010/1476.htm)
 
+~~【6.11截至】[2019 年同济大学电子与信息工程学院全国优秀大学生暑期学校公告](http://yz.tongji.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1507290913&wbfileid=3662374)~~
+
 ## 东南大学
 【7.10截止】[PALM实验室2020年秋季入学研究生报名须知](http://palm.seu.edu.cn/futurestudents.html?from=groupmessage&isappinstalled=0)
 
@@ -174,6 +176,12 @@
 ## 西北工业大学
 
 【6.18截止】[西北工业大学计算机学院2019 年全国优秀大学生暑期夏令营招生简章](https://jsj.nwpu.edu.cn/info/1599/7670.htm)
+
+## 华南理工大学
+【6.25截止】[计算机科学与工程学院2019年优秀大学生暑期夏令营招募通知](https://admission.scut.edu.cn/2019/0612/c17700a324758/page.htm)
+
+## 北京邮电大学
+【6.28截止】[北京邮电大学网络技术研究院2019年优秀大学生夏令营活动通知](https://int.bupt.edu.cn/content/content.php?p=1_3_320)
 
 ## 川大
 
