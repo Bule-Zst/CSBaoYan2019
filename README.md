@@ -77,11 +77,6 @@
 
 【6.25截止】[山东大学软件学院](http://www.eeban.com/thread-168943-1-1.html?_dsign=ce2f8a85)
 
-## 武汉大学
-【6.16截止】[武汉大学计算机学院2019年优秀大学生暑期夏令营](http://cs.whu.edu.cn/news_show.aspx?id=1085)
-
-【6.20截止】[2019年优秀大学生暑期夏令营活动实施方案（国家网络安全学院）](http://cse.whu.edu.cn/index.php?s=/home/xwzx/detail/id/335.html)
-
 ## 国防科学技术大学
 【7.20截止】[关于开展2019年优秀大学生夏令营活动的通知](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=414)
 
@@ -119,6 +114,12 @@
 ***
 
 ***
+
+## 武汉大学
+
+~~【6.16截止】[武汉大学计算机学院2019年优秀大学生暑期夏令营](http://cs.whu.edu.cn/news_show.aspx?id=1085)~~
+
+~~【6.20截止】[2019年优秀大学生暑期夏令营活动实施方案（国家网络安全学院）](http://cse.whu.edu.cn/index.php?s=/home/xwzx/detail/id/335.html)~~
 
 ## 浙江大学
 
