@@ -22,6 +22,8 @@
 
 【6.16（周日）18:30】 [复旦大学2020年研究生招生宣讲会通知（第一批）](http://www.gsao.fudan.edu.cn/ab/20/c15022a174880/page.htm)
 
+【7.26截止】[复旦管院数据科学与商务分析硕士](https://mp.weixin.qq.com/s?__biz=MzA4OTY1MDQzMA==&mid=2652061253&idx=1&sn=feadde76b776379e0a17c14fe0568d04&chksm=8bf03bd4bc87b2c24507d9d564ffb939a3d4ac2f0fc0490048627112b978a4830db66c175c65&mpshare=1&scene=23&srcid=#rd)
+
 ## 同济大学
 [同济大学2019年优秀学生暑期学校活动通知（陆续更新中）](http://yz.tongji.edu.cn/info/1010/1476.htm)
 
